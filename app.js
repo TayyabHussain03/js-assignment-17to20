@@ -107,4 +107,11 @@
 // final = newnum.reverse()
 // document.write("Largest number: " +final[0])
 
+//                                  Question 9
+
+// var a = [24, 53, 78, 91, 12]
+// document.write("<h3> Number List: "+a+"</h3>")
+// newnum = a.sort()
+// document.write("Smallest number: " +newnum[0])
+
 
