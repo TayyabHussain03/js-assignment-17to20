@@ -99,4 +99,12 @@
 //    }
 // }
 
+//                                  Question 8
+
+// var a = [24, 53, 78, 91, 12]
+// document.write("<h3> Number List: "+a+"</h3>")
+// newnum = a.sort()
+// final = newnum.reverse()
+// document.write("Largest number: " +final[0])
+
 
