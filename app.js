@@ -114,4 +114,11 @@
 // newnum = a.sort()
 // document.write("Smallest number: " +newnum[0])
 
+//                                  Question 10
+
+// num = []
+// for (let i = 5; i <= 100; i+=5) {
+// console.log(i)
+// }
+
 
