@@ -19,3 +19,11 @@
 
 // }
 
+//                                Question 4
+// var table = prompt("enter table number")
+// length = prompt("How many times")
+
+// for( i = 1; i <= length; i++){
+//     console.log(table + "*" +i+ "="+ table.length * i  )
+// }
+
