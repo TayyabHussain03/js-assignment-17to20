@@ -33,5 +33,42 @@
 
 // for (var i = 0; i < fruits.length; i++) {
 //      document.write("<h3>"+fruits[i] );
+
+//                                Question 6
+
+// counting loop
+
+// document.write("<h1>Counting</h1><br/> ")
+// for (let i = 0; i <=15; i++) {
+//     document.write(+[i]+ ",")
+// }
+// document.write("<h1>Reverse Counting</h1><br/> ")
+// for (let i = 10; i >= 0; i--) {
+//     document.write([i]+ ",")
+// }
+// document.write("<h1>Even</h1><br/> ")
+// num = []
+
+// var num = [];
+// for (var i = 0; i <= 20; i += 2) {
+//     num.push(i);
+// }
+// document.write(num)
+
+
+// document.write("<h1>Odd</h1><br/> ")
+// var number = [];
+// for (var i = 1; i <= 19; i += 2) {
+//     number.push(i);
+// }
+// document.write(number)
+
+// document.write("<h1>Series</h1><br/> ")
+// var ser = [];
+// for (var i = 2; i <= 20; i += 2) {
+//     ser.push(i+"k");
+// }
+// document.write(ser)
+
 // }
 
