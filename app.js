@@ -72,3 +72,31 @@
 
 // }
 
+//                                Question 7
+
+
+// input = prompt("Welcome to our bakery what you want?")
+
+// if(input === products){
+//     alert("This product is available at" + products+ "index")
+// }
+
+
+// products = ["cake", "apple pie", "cookie", "chips", "patties"]
+// input = prompt("Welcome to our bakery what you want?")
+// var milGaya = 'nahi';
+
+// for (var i = 0; i < products.length; i++) {
+//     console.log(i)
+//     if (input === products[i]) {
+//         milGaya = 'han';
+//         alert("It's available at " + i + " index");
+       
+//     }
+//     else if  (milGaya === 'nahi') {
+//        alert("It's not available");
+//        break;
+//    }
+// }
+
+
