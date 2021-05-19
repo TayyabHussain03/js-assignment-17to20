@@ -27,3 +27,11 @@
 //     console.log(table + "*" +i+ "="+ table.length * i  )
 // }
 
+//                                Question 5
+
+// fruits = ["apple", "banana", "mango", "orange","strawberry"]
+
+// for (var i = 0; i < fruits.length; i++) {
+//      document.write("<h3>"+fruits[i] );
+// }
+
